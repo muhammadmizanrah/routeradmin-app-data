@@ -1,0 +1,18 @@
+{
+    "schema": 1,
+    "type": "routeradmin_config",
+    "app": "routeradmin",
+    "version": 3,
+    "generated_at": "2026-11-01T16:42:36+00:00",
+    "config": {
+        "min_android_build": 0,
+        "min_ios_build": 0,
+        "maintenance": false,
+        "notice_enabled": true,
+        "promo_enabled": false,
+        "rating_enabled": true,
+        "update_url_android": "https://play.google.com/store/apps/details?id=com.ip19216801.routeradmin.wifi",
+        "notice_id": "setup-test",
+        "notice_en": "Panel test: this notice came from your dashboard."
+    }
+}
