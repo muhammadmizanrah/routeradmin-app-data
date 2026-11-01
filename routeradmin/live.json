@@ -1,8 +1,8 @@
 {
-    "version": 1,
-    "sha256": "16e1990696ea1e2768e1ca81d4ee3419ccf297a2e3cc4d420115b4764b344d63",
-    "signature": "ed25519:EqBXwUVsfbtC45NxRIoi/AZDzhztPpzWVcswDXff/BpZcn7GNy5AylcwmpLmmwhyDfISyWuYvNEk/K3AEhz5CQ==",
-    "bytes": 466,
-    "published_at": "2026-11-01T16:39:18+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/routeradmin-app-data@7f8865a/routeradmin/v1.json"
+    "version": 3,
+    "sha256": "66a22ff6cbccc5f05e45d2903e74345e251a6102f420e56cc14f800fa519b491",
+    "signature": "ed25519:epASFLxDeUXLcY7fW9/XRiOh6OmAYfHBRFlWTAFIbuvzDaWag1bqWvvi+g/atgabQ3ic6bcbjMEOnanBZxtoDg==",
+    "bytes": 574,
+    "published_at": "2026-11-01T16:42:41+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/routeradmin-app-data@cb6c3bf/routeradmin/v3.json"
 }
